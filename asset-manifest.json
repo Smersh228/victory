@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/art_of_victory/static/css/main.544dd1f4.css",
+    "main.js": "/art_of_victory/static/js/main.fa93022b.js",
+    "static/media/Menu.jpg": "/art_of_victory/static/media/Menu.fa1d0a7554392f96a521.jpg",
+    "index.html": "/art_of_victory/index.html",
+    "main.544dd1f4.css.map": "/art_of_victory/static/css/main.544dd1f4.css.map",
+    "main.fa93022b.js.map": "/art_of_victory/static/js/main.fa93022b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.544dd1f4.css",
+    "static/js/main.fa93022b.js"
+  ]
+}
